@@ -1,3 +1,5 @@
 This is the initial edit of the testmerge testfile.
 
-This is the second edit of the testmerge testfile in branch firsttestmergebranch
+This is the first commit of the testmerge testfile in branch firsttestmergebranch
+
+This is the second commit of the testmerge testfile in branch firsttestmergebranch
